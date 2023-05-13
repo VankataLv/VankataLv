@@ -1,5 +1,5 @@
 Hi, I’m @VankataLv; <br>
-I’m interested in new tech, gadgets, science & physics; <br>
+I’m interested in new technologies, gadgets, science & physics; <br>
 I’m currently learning Python; <br>
 I’m looking to collaborate on HW and public project; <br>
 How to reach me: <br>
