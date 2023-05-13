@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VankataLv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on HW and other exercises
-- 📫 How to reach me vankata_Lv#2605 on discord
--                     Vankata Lv on facebook
+Hi, I’m @VankataLv;
+I’m interested in new tech, gadgets, science & physics;
+I’m currently learning Python;
+I’m looking to collaborate on HW and public projects;
+How to reach me: - vankata_Lv#2605 on discord
+                 - Vankata Lv on facebook
